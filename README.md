@@ -2,7 +2,7 @@
 
 ## 🇵🇱 Polska Wersja
 
-Prosty i dynamiczny klon kultowego Flappy Bird. Czysta zręcznościowa mechanika – omijaj przeszkody i pobijaj własne rekordy.
+Gra wzorowana kultowym Flappy Bird. Została napisana przeze mnie, gdy zaczynałem interesować się programowaniem, około w 4-5 klasie podstawówki.
 
 - Sterowanie: W, Spacja lub Strzałka w górę (aby podskoczyć)
 - Technologie: Unity Engine, C#
@@ -10,7 +10,7 @@ Prosty i dynamiczny klon kultowego Flappy Bird. Czysta zręcznościowa mechanika
 
 ## 🇬🇧 English Version
 
-Straight to the point: a simple Flappy Bird clone. Pure arcade mechanics—dodge the obstacles and beat your high score.
+A game inspired by the iconic Flappy Bird. I developed it when I first became interested in programming, around the 4th or 5th grade of primary school.
 
 - Controls: W, Spacebar, or Up Arrow (to flap)
 - Tech Stack: Unity Engine, C#
