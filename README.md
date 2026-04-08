@@ -1,5 +1,6 @@
 🇵🇱 Polska Wersja
-#PrawieFlappyBird 🐦
+
+# PrawieFlappyBird 🐦
 
 Prosty i dynamiczny klon kultowego Flappy Bird. Czysta zręcznościowa mechanika – omijaj przeszkody i pobijaj własne rekordy.
 
@@ -8,7 +9,8 @@ Prosty i dynamiczny klon kultowego Flappy Bird. Czysta zręcznościowa mechanika
 - Uruchomienie: Pobierz .zip z sekcji Releases, wypakuj i uruchom plik wykonywalny z grą.
 
 🇬🇧 English Version
-#PrawieFlappyBird 🐦
+
+# PrawieFlappyBird 🐦
 
 Straight to the point: a simple Flappy Bird clone. Pure arcade mechanics—dodge the obstacles and beat your high score.
 
